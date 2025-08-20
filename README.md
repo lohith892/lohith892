@@ -1,15 +1,15 @@
-# 💫 Hi 👋, I'm Kiran
+# 💫 Hi 👋, I'm lohith
 **A passionate Cloud Engineer || DevOps Engineer || Content Creator **
 
-Email Me 👉 ✉️ **kirankulal2002@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **lohith52548@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Network Anomaly Detection  Using Machine Learning
-- 🌱 **I’m currently learning:** jenkins
+- 🔭 **I’m currently working on:** deep learning approach for predicting stress and no-stress states
+- 🌱 **I’m currently learning:** webdeveloper
 - 👯 **I’m looking to collaborate on:** nothing
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** kirankulal2002@gmail.com
-- 😄 **Pronouns:** Kiru
+- 📫 **How to reach me:** lohith52548@gmail.com
+- 😄 **Pronouns:** lohi
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me
 
 ## 🔗 I am a Content Creator. 😊😊
